@@ -8,4 +8,4 @@ The matrices are of 2 different sixes, with A being 4x3, and B being 3x4.
 
 ## Implementation
 
-Simply download the code and run 'java MatrixMultiplier' in your terminal. It's time for you to put it to the test!
+Simply download the code and run `java MatrixMultiplier` in your terminal. It's time for you to put it to the test!
