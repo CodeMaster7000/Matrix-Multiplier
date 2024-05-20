@@ -19,12 +19,10 @@ class GFG {
         printMatrix(B, row2, col2); 
 
         if (col1 != row2) { 
-            System.out.println("\nMultiplication Not Possible"); 
+            System.out.println("\nMultiplication impossible."); 
             return; 
         } 
-
         int C[][] = new int[row1][col2]; 
-
         for (i = 0; i < row1; i++) { 
             for (j = 0; j < col2; j++) { 
                 for (k = 0; k < col1; k++) 
@@ -68,3 +66,5 @@ class GFG {
         sc.close();
     } 
 }
+
+// Time complexity: O(M2*N)
