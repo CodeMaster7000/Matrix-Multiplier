@@ -1,2 +1,3 @@
-# Matrix-Multiplier
-A Java program to multiply 2 matrices of any complexity.
+# Matrix Multiplier
+
+A Java program to multiply 2 matrices, inputted by the user, of any complexity.
